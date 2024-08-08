@@ -11,11 +11,11 @@
     <img src="https://img.shields.io/npm/dw/create-edu-dapp?color=teal" alt="Downloads">
 </div><br>
 
-A full-stack starter template featuring **Next & Hardhat or Foundry**, designed for building `Dapps`, as well as developing, deploying, testing, and verifying Solidity smart contracts on the Open Campus L3 chain. This starter kit includes pre-installed packages such as `create-next-app`, `hardhat`, `foundry`, `typescript`, `tailwindcss`, `shadcn-ui`, `web3.js`, and more.
+A full-stack starter template featuring **Nextjs & Hardhat or Foundry**, designed for building `Dapps`, as well as developing, deploying, testing, and verifying Solidity smart contracts on the Open Campus L3 chain. This starter kit includes pre-installed packages such as `create-next-app`, `hardhat`, `foundry`, `typescript`, `tailwindcss`, `shadcn-ui`, `web3.js`, and more.
 
-## 📺 Quickstart | Next & Foundry
+## 📺 Quickstart | Nextjs & Foundry
 
-**You will find the Next & Hardhat implementation [Here](https://github.com/AsharibAli/create-edu-dapp).**
+**You will find the Nextjs & Hardhat implementation [Here](https://github.com/AsharibAli/create-edu-dapp).**
 
 <div align="center">
 </div>
@@ -88,7 +88,7 @@ forge script script/DeployGreeter.s.sol --broadcast --rpc-url https://rpc.open-c
 
 ## **Copy and paste the generated contract JSON ABI folder `Greeter.sol` inside the `backend/out/` directory to the `/frontend/` directory.**
 
-## **Copy and paste the deployed contract address [here](https://github.com/AsharibAli/create-edu-dapp/blob/82f9bed935805202876d1132346fb2130a63cdf0/frontend/app/page.tsx#L42).**
+## **Copy and paste the deployed contract address [here](https://github.com/AsharibAli/create-edu-dapp/blob/82f9bed935805202876d1132346fb2130a63cdf0/frontend/app/page.tsx#L53).**
 
 ### ✅ Verify
 
