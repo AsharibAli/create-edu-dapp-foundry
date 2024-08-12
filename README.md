@@ -15,7 +15,7 @@ A full-stack starter template featuring **Nextjs & Hardhat or Foundry**, designe
 
 ## 📺 Quickstart | Nextjs & Foundry
 
-**You will find the Nextjs & Hardhat implementation [Here](https://github.com/AsharibAli/create-edu-dapp).**
+**You will find the Nextjs & Hardhat implementation [Here](https://github.com/AsharibAli/create-edu-dapp-hardhat).**
 
 <div align="center">
 </div>
