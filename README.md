@@ -31,6 +31,8 @@ npx create-edu-dapp <your-dapp-name>
 cd <your-dapp-name>
 ```
 
+***Note: If you have used the npx command then you don't have to install manually in any directory.***
+
 ### 📜 Smart Contracts
 
 All smart contracts are located inside the `backend` aka `foundry` folder, which can be found in the root directory.
