@@ -90,7 +90,7 @@ forge script script/DeployGreeter.s.sol --broadcast --rpc-url https://rpc.open-c
 
 ## **Copy and paste the generated contract JSON ABI folder `Greeter.sol` inside the `backend/out/` directory to the `/frontend/` directory.**
 
-## **Copy and paste the deployed contract address [here](https://github.com/AsharibAli/create-edu-dapp/blob/82f9bed935805202876d1132346fb2130a63cdf0/frontend/app/page.tsx#L53).**
+## **Copy and paste the deployed contract address [here](https://github.com/AsharibAli/create-edu-dapp-foundry/blob/ac876d80415530496b498596002e1ed58b2e588c/frontend/app/page.tsx#L53).**
 
 ### ✅ Verify
 
