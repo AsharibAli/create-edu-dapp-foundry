@@ -2,19 +2,19 @@
   "name": "create-edu-dapp-nextjs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asharibali/create-edu-dapp.git"
+    "url": "git+https://github.com/asharibali/create-edu-dapp-foundry.git"
   },
   "keywords": [
     "evm",
     "nextjs",
-    "hardhat",
+    "foundry",
     "educhain",
     "opencampus"
   ],
   "author": "Asharib Ali",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/asharibali/create-edu-dapp/issues"
+    "url": "https://github.com/asharibali/create-edu-dapp-foundry/issues"
   },
   "scripts": {
     "dev": "next dev --turbo",
