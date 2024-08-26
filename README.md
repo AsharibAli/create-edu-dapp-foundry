@@ -6,12 +6,27 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/platform-opencampus-teal.svg?style=flat-square" alt="Platform">
-    <img src="https://img.shields.io/github/license/asharibali/create-edu-dapp-foundry?color=teal&style=flat-square " alt="License">
+    <img src="https://img.shields.io/github/license/asharibali/create-edu-dapp-hardhat?color=teal&style=flat-square " alt="License">
     <img src="https://img.shields.io/npm/v/create-edu-dapp?color=teal" alt="NPM Version">
     <img src="https://img.shields.io/npm/dm/create-edu-dapp?color=teal" alt="Downloads">
 </div><br>
 
-A full-stack starter template featuring **Nextjs & Hardhat or Foundry**, designed for building `Dapps`, as well as developing, deploying, testing, and verifying Solidity smart contracts on the Open Campus L3 chain. This starter kit includes pre-installed packages such as `create-next-app`, `hardhat`, `foundry`, `typescript`, `tailwindcss`, `shadcn-ui`, `web3.js`, `ocid`, and more.
+A full-stack starter template featuring **Next.js & Hardhat or Foundry**, designed for building `dApps`, and for developing, deploying, testing, and verifying Solidity smart contracts on the Open Campus L3 **(EduChain)**. The starter kit comes pre-configured with **six example dApps** and includes essential tools and libraries such as `create-next-app`, `Hardhat`, `Foundry`, `TypeScript`, `Tailwind CSS`, `shadcn-ui`, `web3.js`, `Open Campus ID`, and more.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a align="center" href="https://ced.asharib.xyz/">
+  <img src="https://cdn.dorahacks.io/static/files/191743e71ac107ee43506c8424997c17.png" alt="package">
+  <b>create-edu-dapp</b>
+</a>
+  </tr>
+</table>
+
+
+## 🎉 Achievements
+- **1k+ NPM Downloads**
+- **Appreciated by the Open Campus Team on X**
 
 ## 📺 Quickstart | Nextjs & Foundry
 
@@ -150,5 +165,4 @@ We welcome contributions from the community! If you'd like to contribute, please
 
 create-edu-dapp is licensed under the [MIT License](https://github.com/AsharibAli/create-edu-dapp-foundry/blob/main/LICENSE.md).
 
-<hr>
-Don't forget to star this repositry ⭐️ and Follow on X ~ <a href="https://twitter.com/0xAsharib" target="_blank"><img src="https://img.shields.io/twitter/follow/0xAsharib?style=social" alt="twitter" /></a>
+### ⭐️ Don't forget to star the repository, and [follow me on X](https://x.com/0xAsharib).
