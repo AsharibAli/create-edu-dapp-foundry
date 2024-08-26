@@ -88,9 +88,9 @@ forge script script/DeployGreeter.s.sol --broadcast --rpc-url https://rpc.open-c
 <your-contract> deployed to: 0x...
 ```
 
-## **Copy and paste the generated contract JSON ABI folder `Greeter.sol` inside the `backend/out/` directory to the `/frontend/` directory.**
+**Copy and paste the generated contract JSON ABI folder `Greeter.sol` inside the `backend/out/` directory to the `/frontend/contracts/` directory.**
 
-## **Copy and paste the deployed contract address [here](https://github.com/AsharibAli/create-edu-dapp-foundry/blob/ac876d80415530496b498596002e1ed58b2e588c/frontend/app/page.tsx#L53).**
+**Copy and paste the deployed contract address in the frontend page directory. For example, if the deployed contract is `Greeter.sol`, then you have to paste the address in `frontend/app/(dapps)/simple-greeting-dapp/page.tsx`.**
 
 ### ✅ Verify
 
@@ -103,7 +103,7 @@ forge verify-contract \
   --verifier blockscout \
   --verifier-url 'https://opencampus-codex.blockscout.com/api/' \
   <deployed-contract-address> \
-  src/Greeter.sol:Greeter
+  [contractFile]:[contractName]
 ```
 
 ### 💻 Next.js client

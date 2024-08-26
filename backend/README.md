@@ -32,7 +32,7 @@ forge verify-contract \
   --verifier blockscout \
   --verifier-url 'https://opencampus-codex.blockscout.com/api/' \
   <deployed-contract-address> \
-  src/Greeter.sol:Greeter
+  [contractFile]:[contractName]
 
 # Display help information for Foundry
 forge help
