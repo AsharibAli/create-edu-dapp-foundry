@@ -9,6 +9,7 @@ interface OCIDProviderProps {
 
 const opts = {
   redirectUri: "http://localhost:3000/redirect",
+  referralCode: "PARTNER6",
 };
 
 const OCIDProvider: FC<OCIDProviderProps> = ({ children }) => (
@@ -17,4 +18,4 @@ const OCIDProvider: FC<OCIDProviderProps> = ({ children }) => (
   </OCConnect>
 );
 
-export default OCIDProvider;
+export default OCIDProvider;  
